@@ -1,5 +1,3 @@
-Absolutely. Below is the complete **copy-and-paste Markdown content** for your GitHub `README.md`. You can copy it directly into your `02-KOPS-on-AWS/README.md` file.
-
 # **KOPS on AWS – Kubernetes Cluster Provisioning**
 
 This module covers Kubernetes cluster provisioning using KOPS on AWS, starting from domain registration and AWS infrastructure setup to cluster creation, validation, troubleshooting, and deletion.
